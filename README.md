@@ -1,4 +1,12 @@
 # Destini
+
+Destini App created during iOS Bootcamp
+
+This is a game app created during iOS Bootcamp on Udemy. Play a story, choose your destiny.
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+# Destini
 Learn to make iOS Apps with [The App Brewery](https://www.appbrewery.co) 📱 | Project Stub | (Swift 4.0/Xcode 9) - Destini App
 
 Beginner: Download the starter project files as .zip and extract the files to your desktop.
