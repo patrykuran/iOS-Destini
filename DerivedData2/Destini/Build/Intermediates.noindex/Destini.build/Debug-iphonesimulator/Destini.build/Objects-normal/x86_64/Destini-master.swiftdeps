@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "76e87567ed9668770f1cb2ab73c9d8bb"
+build_time: [1528994149, 817730000]
+inputs:
+  "/Users/p.uran/Documents/ios bootcamp/apps/Destini/Destini/ViewController.swift": [1527015111, 0]
+  "/Users/p.uran/Documents/ios bootcamp/apps/Destini/Destini/AppDelegate.swift": [1510816156, 0]
